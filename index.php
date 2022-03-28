@@ -1,3 +1,3 @@
 <?
-header("location: http://berqiqch.eu5.net");
+header("location: https://www.berqiqch.com/");
 ?>
